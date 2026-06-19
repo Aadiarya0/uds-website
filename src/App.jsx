@@ -574,6 +574,7 @@ function GalleryLightbox({ photos, activeIdx, setActiveIdx, onClose }) {
       window.removeEventListener("keydown", onKey);
       document.body.style.overflow = "";
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [activeIdx]);
 
   return (
