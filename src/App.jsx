@@ -11,7 +11,7 @@ const CREAM_DARK = "#E8E3DA";
 
 // UDS Logo — hosted at /uds-logo.png (place the file in your public/ folder)
 const LOGO_URL = "/uds-logo.png";
-const FAVICON_URL = "/uds-favicon.png";
+const FAVICON_URL = "/uds favicon.png";
 
 const SERVICES = [
   {

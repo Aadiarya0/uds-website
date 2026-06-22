@@ -11,7 +11,7 @@ const CREAM_DARK = "#E8E3DA";
 
 // UDS Logo — hosted at /uds-logo.png (place the file in your public/ folder)
 const LOGO_URL = "/uds-logo.png";
-const FAVICON_URL = "/uds-favicon.png";
+const FAVICON_URL = "/uds favicon.png";
 
 const SERVICES = [
   {
@@ -211,7 +211,7 @@ function Preloader({ onComplete }) {
         fontSize: 12, letterSpacing: "0.3em", color: "rgba(255,255,255,0.4)",
         textTransform: "uppercase", fontWeight: 600,
       }}>
-        Udaypur Dhuwani Sewaa
+        Udaypur Dhuwani Sewa
       </div>
       <div style={{
         fontSize: "clamp(44px, 7vw, 80px)", fontWeight: 900, color: "#fff",
@@ -1345,7 +1345,7 @@ export default function App() {
                 letterSpacing: "-0.01em",
               }}
             >
-              SEWAA
+              SEWA
             </motion.h1>
           </div>
 
@@ -1431,7 +1431,7 @@ export default function App() {
             transition={{ duration: 0.7, ease: "easeOut" }}
           >
             <p style={{ color: "#777", fontSize: 15, lineHeight: 1.8, marginBottom: 40 }}>
-              Udaypur Dhuwani Sewaa has been moving Nepal forward since our founding — connecting businesses, factories, and communities through reliable, professional freight services across all provinces.
+              Udaypur Dhuwani Sewa has been moving Nepal forward since our founding — connecting businesses, factories, and communities through reliable, professional freight services across all provinces.
             </p>
 
             <AccordionItem title="Logistics Company Overview" defaultOpen>
@@ -1790,7 +1790,7 @@ export default function App() {
                   <img src={LOGO_URL} alt="Udaypur Dhuwani Sewaa logo" style={{ width: "100%", height: "100%", objectFit: "contain" }} />
                 </div>
                 <div>
-                  <p style={{ color: "#fff", fontWeight: 800, fontSize: 15 }}>UDAYPUR DHUWANI SEWAA</p>
+                  <p style={{ color: "#fff", fontWeight: 800, fontSize: 15 }}>UDAYPUR DHUWANI SEWA</p>
                   <p style={{ color: "rgba(255,255,255,0.4)", fontSize: 11 }}>Freight & Logistics, Nepal</p>
                 </div>
               </div>
@@ -1868,7 +1868,7 @@ export default function App() {
 
           <div style={{ borderTop: "1px solid rgba(255,255,255,0.08)", paddingTop: 32, display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 16 }}>
             <p style={{ color: "rgba(255,255,255,0.3)", fontSize: 12 }}>
-              © 2025 Udaypur Dhuwani Sewaa. All rights reserved.
+              © 2025 Udaypur Dhuwani Sewa. All rights reserved.
             </p>
             <div style={{ display: "flex", gap: 24 }}>
               {["Privacy Policy", "Terms of Service", "Cookie Policy"].map((l) => (
